@@ -8,11 +8,15 @@ This project uses a logistic regression model to predict **Pass/Fail** outcomes 
 - Trains a logistic regression model using `scikit-learn`
 - Predicts outcomes for new study hour values
 - Prints result and confidence level for each prediction
+- 🖼️ Visualizes the logistic regression curve using matplotlib
+
 
 ## 📁 Files
 
 - `csv_logistic_classifier.py` – Runs the model and prints results  
 - `study_data_logistic.csv` – Input data used for training
+- `logistic_plot.py` – Plots the logistic regression curve with training data
+
 
 ## ⚙️ Requirements
 
